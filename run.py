@@ -1,7 +1,7 @@
 import app
 
 uri="unique uri here"
-primaryKey="primary key here"
+primaryKey="primary key heree"
 database_name="testDatabase"
 
 client=app.createInstance(uri,primaryKey)
