@@ -1,7 +1,7 @@
 import app
 
-uri="https://andy.documents.azure.com:443/"
-primaryKey="f0yq0RS4dHOD1x46AcyeX9hAqYaEBp3jSl2P6pbSUaSqZYRp2hLQ1hGyEuWHNnY0oK5DhLuurAq6hhXxvzIHBw=="
+uri="unique uri here"
+primaryKey="primary key here"
 database_name="testDatabase"
 
 client=app.createInstance(uri,primaryKey)
